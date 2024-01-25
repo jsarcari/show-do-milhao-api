@@ -1,14 +1,14 @@
-import { Injectable } from "@nestjs/common";
+import { Injectable } from '@nestjs/common';
 
 @Injectable()
 export class QuestionRepository {
-    private questions = [];
+  private questions = [];
 
-    async save(question) {
-        this.questions.push(question);
-    }
+  async save(question) {
+    this.questions.push(question);
+  }
 
-    async list() {
-        return this.questions;
-    }
+  async list() {
+    return this.questions;
+  }
 }

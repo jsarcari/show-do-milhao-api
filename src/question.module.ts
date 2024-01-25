@@ -1,11 +1,9 @@
-import { Module } from "@nestjs/common";
-import { QuestionController } from "./question.controller";
-import { QuestionRepository } from "./question.repository";
+import { Module } from '@nestjs/common';
+import { QuestionController } from './question.controller';
+import { QuestionRepository } from './question.repository';
 
 @Module({
-    controllers: [ QuestionController ],
-    providers: [ QuestionRepository ]
+  controllers: [QuestionController],
+  providers: [QuestionRepository],
 })
-export class QuestionModule {
-
-}
+export class QuestionModule {}

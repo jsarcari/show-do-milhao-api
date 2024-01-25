@@ -1,22 +1,24 @@
 import { IsArray, IsNotEmpty, IsNumber, IsString } from 'class-validator';
+import { IdIsUnique } from 'src/validation/idIsUnique.validator';
 
 export class CreateQuestionDTO {
   @IsNumber()
   @IsNotEmpty()
+  @IdIsUnique({ message: 'Already exists a question with this id.'})
   id: Number;
   @IsString()
   @IsNotEmpty()
-  question: String;
+  question: string;
   @IsString()
   @IsNotEmpty()
-  correct_answer: String;
+  correct_answer: string;
   @IsString()
   @IsNotEmpty()
-  difficulty: String;
+  difficulty: string;
   @IsString()
   @IsNotEmpty()
-  category: String;
+  category: string;
   @IsArray()
   @IsNotEmpty()
-  incorrect_answers: Array<String>;
+  incorrect_answers: Array<string>;
 }

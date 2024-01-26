@@ -1,7 +1,8 @@
-import { Body, Controller, Get, Post } from '@nestjs/common';
+import { Body, Controller, Delete, Get, Param, Post, Put } from '@nestjs/common';
 import { QuestionRepository } from './question.repository';
 import { CreateQuestionDTO } from './dto/CreateQuestion.dto';
 import { QuestionEntity } from './question.entity';
+import { UpdateQuestionDTO } from './dto/UpdateQuestion.dto';
 
 @Controller('/questions')
 export class QuestionController {
@@ -23,5 +24,19 @@ export class QuestionController {
   @Get()
   async listQuestions() {
     return this.questionRepository.list();
+  }
+
+  @Put('/:id')
+  async updateQuestion(@Param('id') id: Number, @Body() newData: UpdateQuestionDTO){
+    this.questionRepository.update(id, newData);
+
+    return { message: 'Question updated with success!' };
+  }
+
+  @Delete('/:id')
+  async removeQuestion(@Param('id') id: Number) {
+    this.questionRepository.remove(id);
+
+    return { message: 'Question deleted with success!' };
   }
 }

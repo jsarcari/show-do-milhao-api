@@ -20,4 +20,37 @@ export class QuestionRepository {
 
     return possibleQuestion !== undefined;
   }
+
+  async update(id: Number, updateData: Partial<QuestionEntity>) {
+    
+    const question = this.getQuestion(id);
+
+    Object.entries(updateData).forEach(([key, value]) => {
+
+      question[key] = value;
+
+      return question;
+    })
+  }
+
+  private getQuestion(id: Number) {
+    const possibleQuestion = this.questions.find(
+        questionSalved => questionSalved.id === id
+    );
+
+    if(!possibleQuestion) {
+      throw new Error('Question not found.');
+    }
+
+    return possibleQuestion;
+  }
+
+  async remove(id: Number) {
+    const question = this.getQuestion(id);
+    this.questions = this.questions.filter(
+        questionSalved => questionSalved.id !== id
+    );
+
+    return question;
+  }
 }

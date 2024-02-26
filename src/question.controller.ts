@@ -4,7 +4,7 @@ import { CreateQuestionDTO } from './dto/CreateQuestion.dto';
 import { QuestionEntity } from './question.entity';
 import { UpdateQuestionDTO } from './dto/UpdateQuestion.dto';
 
-@Controller('/questions')
+@Controller('/')
 export class QuestionController {
 
   constructor(private questionRepository: QuestionRepository) {}

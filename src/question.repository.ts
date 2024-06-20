@@ -1107,6 +1107,18 @@ export class QuestionRepository {
         "Fumaça",
         "Gelo"
       ]
+    },
+    {
+      "id": 92,
+      "question": "Qual o nome do mago da corte do Rei Arthur?",
+      "correct_answer": "Merlin",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Próspero",
+        "Mandrake",
+        "Excalibur"
+      ]
     }
   ];
 

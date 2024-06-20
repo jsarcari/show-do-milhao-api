@@ -1167,6 +1167,30 @@ export class QuestionRepository {
         "Minerais",
         "Natureza"
       ]
+    },
+    {
+      "id": 97,
+      "question": "Quem foi o último rei da Macedônia?",
+      "correct_answer": "Perseu",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Prometeu",
+        "Hércules",
+        "Dioniso"
+      ]
+    },
+    {
+      "id": 98,
+      "question": "Qual é o número que multiplicado por ele mesmo resulta 49?",
+      "correct_answer": "Sete",
+      "difficulty": "easy",
+      "category": "Matemática",
+      "incorrect_answers": [
+        "Nove",
+        "Oito",
+        "Seis"
+      ]
     }
   ];
 

@@ -1119,6 +1119,54 @@ export class QuestionRepository {
         "Mandrake",
         "Excalibur"
       ]
+    },
+    {
+      "id": 93,
+      "question": "Qual dessas plantas não tem espinho?",
+      "correct_answer": "Samambaia",
+      "difficulty": "easy",
+      "category": "Ciência",
+      "incorrect_answers": [
+        "Cacto",
+        "Babosa",
+        "Roseira"
+      ]
+    },
+    {
+      "id": 94,
+      "question": "Quem é Courtney Love?",
+      "correct_answer": "Cantora",
+      "difficulty": "medium",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Escritora",
+        "Jornalista",
+        "Cartunista"
+      ]
+    },
+    {
+      "id": 95,
+      "question": "Quantos minutos tem 8 horas?",
+      "correct_answer": "480",
+      "difficulty": "medium",
+      "category": "Matemática",
+      "incorrect_answers": [
+        "450",
+        "430",
+        "410"
+      ]
+    },
+    {
+      "id": 96,
+      "question": "O que estuda a zoologia?",
+      "correct_answer": "Animais",
+      "difficulty": "easy",
+      "category": "Ciência",
+      "incorrect_answers": [
+        "Vegetais",
+        "Minerais",
+        "Natureza"
+      ]
     }
   ];
 

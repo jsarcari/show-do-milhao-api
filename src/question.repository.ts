@@ -690,14 +690,14 @@ export class QuestionRepository {
     },
     {
       "id": 57,
-      "question": "Qual a unidade de peso utilizada para medir a delicadeza da seda e das fibras feitas pelo homem?",
-      "correct_answer": "Denier",
+      "question": "Por quanto se deve multiplicar o número romano coberto com traço horizontal?",
+      "correct_answer": "1000",
       "difficulty": "hard",
-      "category": "Ciência",
+      "category": "Matemática",
       "incorrect_answers": [
-        "TOJ",
-        "ELL",
-        "RLI"
+        "100",
+        "200",
+        "500"
       ]
     },
     {
@@ -1190,6 +1190,282 @@ export class QuestionRepository {
         "Nove",
         "Oito",
         "Seis"
+      ]
+    },
+    {
+      "id": 99,
+      "question": "Como é chamada a criação de coelhos?",
+      "correct_answer": "Cunicultura",
+      "difficulty": "medium",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Avicultura",
+        "Ranicultura",
+        "Sericicultura"
+      ]
+    },
+    {
+      "id": 100,
+      "question": "O que não falha é:",
+      "correct_answer": "Infalível",
+      "difficulty": "easy",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Enfalível",
+        "Enfalhível",
+        "Infalhível"
+      ]
+    },
+    {
+      "id": 101,
+      "question": "O que é Tem-tem?",
+      "correct_answer": "Ave",
+      "difficulty": "medium",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Comida",
+        "Mamífero",
+        "Ilha"
+      ]
+    },
+    {
+      "id": 102,
+      "question": "Segundo a mitologia, qual é o nome da serpente morta por Hércules?",
+      "correct_answer": "Hidra",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Centauro",
+        "Anaconda",
+        "Naja"
+      ]
+    },
+    {
+      "id": 103,
+      "question": "Um número natural é divisível por 10 quando termina em:",
+      "correct_answer": "0",
+      "difficulty": "easy",
+      "category": "Matemática",
+      "incorrect_answers": [
+        "3",
+        "5",
+        "13"
+      ]
+    },
+    {
+      "id": 104,
+      "question": "Qual desses esportes se pratica descalço?",
+      "correct_answer": "Karatê",
+      "difficulty": "easy",
+      "category": "Esportes",
+      "incorrect_answers": [
+        "Tênis",
+        "Futebol de salão",
+        "Boxe"
+      ]
+    },
+    {
+      "id": 105,
+      "question": "Tomé de Sousa fundou qual cidade, capital do Brasil até 1763?",
+      "correct_answer": "Salvador",
+      "difficulty": "medium",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Curitiba",
+        "Rio de Janeiro",
+        "São Paulo"
+      ]
+    },
+    {
+      "id": 106,
+      "question": "O que é sarampo?",
+      "correct_answer": "Uma doença",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Um sapo",
+        "Uma dança",
+        "Um peixe"
+      ]
+    },
+    {
+      "id": 107,
+      "question": "O que é ejetar?",
+      "correct_answer": "Expelir",
+      "difficulty": "medium",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Habilitar",
+        "Rejeitar",
+        "Aplicar injeção"
+      ]
+    },
+    {
+      "id": 108,
+      "question": "O estudo da origem e distribuição das plantas na terra se chama:",
+      "correct_answer": "Fitogeografia",
+      "difficulty": "medium",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Geografia humana",
+        "Geografia política",
+        "Antropologia"
+      ]
+    },
+    {
+      "id": 109,
+      "question": "O que é gastronomia?",
+      "correct_answer": "Arte de cozinhar",
+      "difficulty": "easy",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Dilatação do estômago",
+        "Infecção estomacal",
+        "Mania de gastar dinheiro"
+      ]
+    },
+    {
+      "id": 110,
+      "question": "Que termo podemos dar ao Pré-modernismo?",
+      "correct_answer": "Vasta produção literária",
+      "difficulty": "hard",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Fora dos padrões",
+        "Produção literária reduzida",
+        "Algo moderno"
+      ]
+    },
+    {
+      "id": 111,
+      "question": "Qual é a capital de Honduras?",
+      "correct_answer": "Tegucigalpa",
+      "difficulty": "hard",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Panamá",
+        "Bogotá",
+        "Lima"
+      ]
+    },
+    {
+      "id": 112,
+      "question": "As aranhas pertencem a qual classe?",
+      "correct_answer": "Artrópodes",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Gastrópodes",
+        "Crustáceos",
+        "Moluscos"
+      ]
+    },
+    {
+      "id": 113,
+      "question": "O míssil V-2 era uma arma de qual país?",
+      "correct_answer": "Alemanha",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Estados Unidos",
+        "Inglaterra",
+        "Itália"
+      ]
+    },
+    {
+      "id": 114,
+      "question": "Qual é o movimento estético baseado na quebra dos padrões racionais?",
+      "correct_answer": "Surrealismo",
+      "difficulty": "hard",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Barroco",
+        "Futurismo",
+        "Arcadismo"
+      ]
+    },
+    {
+      "id": 115,
+      "question": "O que é corta-jaca?",
+      "correct_answer": "Espécie de dança",
+      "difficulty": "hard",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Faca",
+        "Tipo de facão",
+        "Cutelo"
+      ]
+    },
+    {
+      "id": 116,
+      "question": "Onde fica Marrocos?",
+      "correct_answer": "Na África",
+      "difficulty": "easy",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Na Turquia",
+        "Na Austrália",
+        "Na Índia"
+      ]
+    },
+    {
+      "id": 117,
+      "question": "De qual flor é extraído óleo para uso culinário?",
+      "correct_answer": "Girassol",
+      "difficulty": "medium",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Rosa",
+        "Cravo",
+        "Margarida"
+      ]
+    },
+    {
+      "id": 118,
+      "question": "Quantas décadas tem um século?",
+      "correct_answer": "Dez",
+      "difficulty": "easy",
+      "category": "Matemática",
+      "incorrect_answers": [
+        "Cem",
+        "Mil",
+        "Cento e dez"
+      ]
+    },
+    {
+      "id": 119,
+      "question": "Qual é o significado da expressão desembolsar?",
+      "correct_answer": "Gastar",
+      "difficulty": "easy",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Ganhar",
+        "Receber",
+        "Lucrar"
+      ]
+    },
+    {
+      "id": 120,
+      "question": "Como é chamado o olfato dos animais?",
+      "correct_answer": "Faro",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Visão",
+        "Gosto",
+        "Tato"
+      ]
+    },
+    {
+      "id": 121,
+      "question": "Como é chamada a discussão criada sobre um determinado assunto?",
+      "correct_answer": "Polêmica",
+      "difficulty": "easy",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Engate",
+        "Anúncio",
+        "Fábula"
       ]
     }
   ];

@@ -21,7 +21,7 @@ export class QuestionRepository {
         "question": "Qual réptil que muda de cor conforme o ambiente e o meio onde vive?",
         "correct_answer": "Camaleão",
         "difficulty": "medium",
-        "category": "Ciência",
+        "category": "Ciências",
         "incorrect_answers": [
           "Sapo",
           "Lagarto",
@@ -69,7 +69,7 @@ export class QuestionRepository {
         "question": "Qual desses órgãos faz parte do aparelho digestivo?",
         "correct_answer": "Intestino",
         "difficulty": "easy",
-        "category": "Ciência",
+        "category": "Ciências",
         "incorrect_answers": [
           "Baço",
           "Pulmão",
@@ -189,7 +189,7 @@ export class QuestionRepository {
         "question": "Qual o recipiente utilizado para conservar quente os liquidos que contém?",
         "correct_answer": "Garrafa térmica",
         "difficulty": "easy",
-        "category": "Ciência",
+        "category": "Ciências",
         "incorrect_answers": [
           "Jarra",
           "Bacia",
@@ -213,7 +213,7 @@ export class QuestionRepository {
         "question": "Qual é o nome dado aos segmentos ósseos dos dedos das mãos e dos pés?",
         "correct_answer": "Falange",
         "difficulty": "hard",
-        "category": "Ciência",
+        "category": "Ciências",
         "incorrect_answers": [
           "Clavícula",
           "Temporal",
@@ -273,7 +273,7 @@ export class QuestionRepository {
         "question": "Com quantos graus centígrados a água ferve?",
         "correct_answer": "100",
         "difficulty": "medium",
-        "category": "Ciência",
+        "category": "Ciências",
         "incorrect_answers": [
           "200",
           "170",
@@ -297,7 +297,7 @@ export class QuestionRepository {
         "question": "Como se chama o alimento extraído pelas plantas do solo?",
         "correct_answer": "Seiva",
         "difficulty": "hard",
-        "category": "Ciência",
+        "category": "Ciências",
         "incorrect_answers": [
           "Celulose",
           "Mitose",
@@ -321,7 +321,7 @@ export class QuestionRepository {
       "question": "Qual órgão do nosso corpo produz a urina",
       "correct_answer": "Rim",
       "difficulty": "medium",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Fígado",
         "Coração",
@@ -333,7 +333,7 @@ export class QuestionRepository {
       "question": "Qual é o metal encontrado no interior de um termômetro?",
       "correct_answer": "Mercúrio",
       "difficulty": "medium",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Aço",
         "Alumínio",
@@ -345,7 +345,7 @@ export class QuestionRepository {
       "question": "Qual composto químico representa a fórmula Pb(NO3)2?",
       "correct_answer": "Nitrato de Chumbo",
       "difficulty": "hard",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Ácido Fluorídrico",
         "Cloreto de Cromilo",
@@ -393,7 +393,7 @@ export class QuestionRepository {
       "question": "Qual a fórmula química da água?",
       "correct_answer": "H20",
       "difficulty": "easy",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "HO",
         "H",
@@ -441,7 +441,7 @@ export class QuestionRepository {
       "question": "Quantas dentições tem o ser humano durante a vida?",
       "correct_answer": "Duas",
       "difficulty": "hard",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Uma",
         "Três",
@@ -537,7 +537,7 @@ export class QuestionRepository {
       "question": "Qual é a teoria unificada desenvolvida para explicar a relação entre a eletricidade e o magnetismo?",
       "correct_answer": "Eletromagnetismo",
       "difficulty": "easy",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Gravitação",
         "Movimento Browniano",
@@ -621,7 +621,7 @@ export class QuestionRepository {
       "question": "A qual família pertence o tigre?",
       "correct_answer": "Felídeos",
       "difficulty": "hard",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Canídeos",
         "Suídeos",
@@ -849,7 +849,7 @@ export class QuestionRepository {
       "question": "Qual a parte da física estuda os fenômenos visuais?",
       "correct_answer": "Óptica",
       "difficulty": "easy",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Cinemática",
         "Eletromagnetismo",
@@ -921,7 +921,7 @@ export class QuestionRepository {
       "question": "Qual a área médica que estuda o sistema endócrino?",
       "correct_answer": "Endocrinologia",
       "difficulty": "easy",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Encrinobiologia",
         "Endocrinolobia",
@@ -957,7 +957,7 @@ export class QuestionRepository {
       "question": "A sigla 'Cl' representa qual elemento da tabela periódica?",
       "correct_answer": "Cloro",
       "difficulty": "easy",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Cobalto",
         "Césio",
@@ -1053,7 +1053,7 @@ export class QuestionRepository {
       "question": "Qual metal avermelhado que cria uma camada esverdeada quando em contato com a umidade?",
       "correct_answer": "Cobre",
       "difficulty": "hard",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Ferro",
         "Mercúrio",
@@ -1125,7 +1125,7 @@ export class QuestionRepository {
       "question": "Qual dessas plantas não tem espinho?",
       "correct_answer": "Samambaia",
       "difficulty": "easy",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Cacto",
         "Babosa",
@@ -1161,7 +1161,7 @@ export class QuestionRepository {
       "question": "O que estuda a zoologia?",
       "correct_answer": "Animais",
       "difficulty": "easy",
-      "category": "Ciência",
+      "category": "Ciências",
       "incorrect_answers": [
         "Vegetais",
         "Minerais",
@@ -1466,6 +1466,138 @@ export class QuestionRepository {
         "Engate",
         "Anúncio",
         "Fábula"
+      ]
+    },
+    {
+      "id": 122,
+      "question": "Onde está a incapacidade do daltônico?",
+      "correct_answer": "Nos olhos",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Na face",
+        "No nariz",
+        "No ouvido"
+      ]
+    },
+    {
+      "id": 123,
+      "question": "Qual é o resultado da oxidação do ferro?",
+      "correct_answer": "Ferrugem",
+      "difficulty": "medium",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Ferrão",
+        "Ferroada",
+        "Ferreiro"
+      ]
+    },
+    {
+      "id": 124,
+      "question": "Qual é o estreito que une o golfo de São Lourenço ao Atlântico?",
+      "correct_answer": "Cabot",
+      "difficulty": "hard",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "De Bass",
+        "De Canso",
+        "De Dampier"
+      ]
+    },
+    {
+      "id": 125,
+      "question": "Qual é o estreito conhecido como Passo de Calais?",
+      "correct_answer": "De Dover",
+      "difficulty": "hard",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "De Hudson",
+        "De Lombok",
+        "De Malaca"
+      ]
+    },
+    {
+      "id": 126,
+      "question": "Qual é a divisa natural entre Piauí e Maranhão?",
+      "correct_answer": "Rio Parnaíba",
+      "difficulty": "medium",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Rio Jaguaribe",
+        "Rio Itapecuru",
+        "Rio São Francisco"
+      ]
+    },
+    {
+      "id": 127,
+      "question": "El Salvador fica as margens de qual oceano?",
+      "correct_answer": "Pacífico",
+      "difficulty": "medium",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Índico",
+        "Atlântico",
+        "Glacial Ártico"
+      ]
+    },
+    {
+      "id": 128,
+      "question": "Em que país está situada a região de Antofagasta?",
+      "correct_answer": "Chile",
+      "difficulty": "hard",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Rússia",
+        "Nigéria",
+        "Afeganistão"
+      ]
+    },
+    {
+      "id": 129,
+      "question": "Qual é a capital das Filipinas?",
+      "correct_answer": "Manila",
+      "difficulty": "medium",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Kingston",
+        "Jacarta",
+        "Budapeste"
+      ]
+    },
+    {
+      "id": 130,
+      "question": "Águas pluviais são provenientes...",
+      "correct_answer": "Chuva",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Mar",
+        "Córrego",
+        "Lago"
+      ]
+    },
+    {
+      "id": 131,
+      "question": "Em 1953, o guerrilheiro Che Guevara formou-se em:",
+      "correct_answer": "Medicina",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Engenharia",
+        "Direito",
+        "Jornalismo"
+      ]
+    },
+    {
+      "id": 132,
+      "question": "Qual desses elementos químicos não é um metal?",
+      "correct_answer": "Iodo",
+      "difficulty": "medium",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Prata",
+        "Ouro",
+        "Mercúrio"
       ]
     }
   ];

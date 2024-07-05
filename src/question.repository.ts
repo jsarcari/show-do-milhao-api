@@ -1599,6 +1599,66 @@ export class QuestionRepository {
         "Ouro",
         "Mercúrio"
       ]
+    },
+    {
+      "id": 133,
+      "question": "No início de qual década foi construído o Muro de Berlim?",
+      "correct_answer": "Década de 60",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Década de 70",
+        "Década de 50",
+        "Década de 80"
+      ]
+    },
+    {
+      "id": 134,
+      "question": "Qual é o horário em que os ponteiros do relógio fazem um ângulo de 180° graus?",
+      "correct_answer": "09:15",
+      "difficulty": "medium",
+      "category": "Matemática",
+      "incorrect_answers": [
+        "17:00",
+        "12:20",
+        "12:00"
+      ]
+    },
+    {
+      "id": 135,
+      "question": "Qual dessas aves perdeu a capacidade de voar ao longo da sua evolução?",
+      "correct_answer": "Avestruz",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Condor",
+        "Pombo",
+        "Águia"
+      ]
+    },
+    {
+      "id": 136,
+      "question": "Qual nome se dá ao grupo de alimentos que inclui o leite, o queijo e manteiga?",
+      "correct_answer": "Laticínios",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Lactobacilos",
+        "Farináceos",
+        "Cereais"
+      ]
+    },
+    {
+      "id": 137,
+      "question": "Qual desses países faz fronteira com a Colômbia?",
+      "correct_answer": "Panamá",
+      "difficulty": "hard",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Honduras",
+        "Costa Rica",
+        "Bolívia"
+      ]
     }
   ];
 

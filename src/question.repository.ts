@@ -248,7 +248,7 @@ export class QuestionRepository {
         "id": 20,
         "question": "Quem foi eleito presidente da África do Sul em 1994?",
         "correct_answer": "Nelson Mandela",
-        "difficulty": "hard",
+        "difficulty": "easy",
         "category": "História e política",
         "incorrect_answers": [
           "Nelson Piquet",
@@ -260,7 +260,7 @@ export class QuestionRepository {
         "id": 21,
         "question": "Qual história Francis Ford Coppola dirigiu em três partes",
         "correct_answer": "O Poderoso Chefão",
-        "difficulty": "hard",
+        "difficulty": "medium",
         "category": "Filmes, desenhos e televisão",
         "incorrect_answers": [
           "Titanic",
@@ -1658,6 +1658,138 @@ export class QuestionRepository {
         "Honduras",
         "Costa Rica",
         "Bolívia"
+      ]
+    },
+    {
+      "id": 138,
+      "question": "Qual era uma das principais características dos maias?",
+      "correct_answer": "Astronomia",
+      "difficulty": "medium",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Cães",
+        "Homem",
+        "Flores"
+      ]
+    },
+    {
+      "id": 139,
+      "question": "Quem protagoniza o filme Momentos Decisivos?",
+      "correct_answer": "Gene Hackman",
+      "difficulty": "hard",
+      "category": "Filmes, desenhos e televisão",
+      "incorrect_answers": [
+        "Mel Gibson",
+        "Dustin Hoffman",
+        "Robert Duvall"
+      ]
+    },
+    {
+      "id": 140,
+      "question": "Qual destas frutas é associada ao Natal?",
+      "correct_answer": "Noz",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Banana",
+        "Tangerina",
+        "Jabuticaba"
+      ]
+    },
+    {
+      "id": 141,
+      "question": "Em qual ano aconteceu a maior rebelião de presos no Brasil?",
+      "correct_answer": "2001",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "2000",
+        "2002",
+        "2003"
+      ]
+    },
+    {
+      "id": 142,
+      "question": "Qual desses cantores não foi integrante do grupo Os Novos Baianos?",
+      "correct_answer": "Elba Ramalho",
+      "difficulty": "hard",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Pepeu Gomes",
+        "Baby Consuelo",
+        "Moraes Moreira"
+      ]
+    },
+    {
+      "id": 143,
+      "question": "Qual é o antônimo de superfluo?",
+      "correct_answer": "Necessário",
+      "difficulty": "medium",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Apressado",
+        "Superior",
+        "Aquecido"
+      ]
+    },
+    {
+      "id": 144,
+      "question": "Qual raça de cães foi treinada para resgate nos alpes suíços?",
+      "correct_answer": "São Bernardo",
+      "difficulty": "hard",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Chiuaua",
+        "Rottweiler",
+        "Pastor alemão"
+      ]
+    },
+    {
+      "id": 145,
+      "question": "Qual cantor era chamado Rei do Baião?",
+      "correct_answer": "Luiz Gonzaga",
+      "difficulty": "medium",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Teixeirinha",
+        "Sivuca",
+        "Gonzaguinha"
+      ]
+    },
+    {
+      "id": 146,
+      "question": "O que é um brioche?",
+      "correct_answer": "Pão",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Anel",
+        "Escultura",
+        "Broche"
+      ]
+    },
+    {
+      "id": 147,
+      "question": "Qual nome é dado a ausência congênita dos dentes?",
+      "correct_answer": "Anodontia",
+      "difficulty": "hard",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Dentina",
+        "Dentologia",
+        "Anododontia"
+      ]
+    },
+    {
+      "id": 148,
+      "question": "Qual é o triângulo que tem todos os lados diferentes?",
+      "correct_answer": "Escaleno",
+      "difficulty": "medium",
+      "category": "Matemática",
+      "incorrect_answers": [
+        "Equilatero",
+        "Isósceles",
+        "Trapézio"
       ]
     }
   ];

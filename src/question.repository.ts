@@ -1791,6 +1791,570 @@ export class QuestionRepository {
         "Isósceles",
         "Trapézio"
       ]
+    },
+    {
+      "id": 149,
+      "question": "Qual é o nome da sede do poder executivo e residência oficial do Presidente da República dos EUA?",
+      "correct_answer": "Casa Branca",
+      "difficulty": "easy",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Casa Rosada",
+        "Pentágono",
+        "Nasa"
+      ]
+    },
+    {
+      "id": 150,
+      "question": "Qual dessas unidades podemos usar para o espaço?",
+      "correct_answer": "Metro",
+      "difficulty": "medium",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Segundos",
+        "Centímetros",
+        "Milímetros"
+      ]
+    },
+    {
+      "id": 151,
+      "question": "Nehru foi primeiro ministro de qual país?",
+      "correct_answer": "Índia",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Egito",
+        "Líbia",
+        "Marrocos"
+      ]
+    },
+    {
+      "id": 152,
+      "question": "O tratato de Tordesilhas foi assinado em qual ano?",
+      "correct_answer": "1494",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "1490",
+        "1500",
+        "1493"
+      ]
+    },
+    {
+      "id": 153,
+      "question": "Em qual ano foi fundada a OMS?",
+      "correct_answer": "1948",
+      "difficulty": "hard",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "1900",
+        "1952",
+        "1980"
+      ]
+    },
+    {
+      "id": 154,
+      "question": "Como se chama a substância utilizada para acabar com pragas em plantações?",
+      "correct_answer": "Agrotóxicos",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Cloro",
+        "Eliminatórias",
+        "Cândida"
+      ]
+    },
+    {
+      "id": 155,
+      "question": "Qual é o nome de sais do ácido hipocloroso?",
+      "correct_answer": "Hipoclorito",
+      "difficulty": "medium",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Clorato",
+        "Nitrato",
+        "Metaborato"
+      ]
+    },
+    {
+      "id": 156,
+      "question": "A carta descrevendo a chegada de Pedro Alvarez Cabral ao Brasil foi enviada ao rei de Portugal, D. Manuel, por:",
+      "correct_answer": "Pero Vaz de Caminha",
+      "difficulty": "medium",
+      "category": "História e política",
+      "incorrect_answers": [
+        "José Saramago",
+        "Francisco Adolfo",
+        "Bento Teixeira"
+      ]
+    },
+    {
+      "id": 157,
+      "question": "Tecido epitelial é o mesmo que:",
+      "correct_answer": "Pele",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Ossos",
+        "Músculos",
+        "Cabelo"
+      ]
+    },
+    {
+      "id": 158,
+      "question": "Qual seleção venceu a copa do mundo de 1998?",
+      "correct_answer": "França",
+      "difficulty": "medium",
+      "category": "Esportes",
+      "incorrect_answers": [
+        "Brasil",
+        "Itália",
+        "Uruguai"
+      ]
+    },
+    {
+      "id": 159,
+      "question": "Qual é o nome da água não-poluída e livre de agentes contaminantes ideal para ser consumida?",
+      "correct_answer": "Água potável",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Água-régia",
+        "Água doce",
+        "Água oxigenada"
+      ]
+    },
+    {
+      "id": 160,
+      "question": "Qual é a unidade de medida da corrente elétrica?",
+      "correct_answer": "Ampere",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Metro",
+        "Quilograma",
+        "Segundo"
+      ]
+    },
+    {
+      "id": 161,
+      "question": "Qual é a identidade secreta do Batman?",
+      "correct_answer": "Bruce Wayne",
+      "difficulty": "medium",
+      "category": "Filmes, desenhos e televisão",
+      "incorrect_answers": [
+        "Bruce Baner",
+        "Clark Kent",
+        "Lex Lutor"
+      ]
+    },
+    {
+      "id": 162,
+      "question": "Quem foi Cora Coralina?",
+      "correct_answer": "Escritora e poetisa",
+      "difficulty": "hard",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Pintora",
+        "Cantora",
+        "Médica"
+      ]
+    },
+    {
+      "id": 163,
+      "question": "A botânica consite em:",
+      "correct_answer": "Estudar as plantas",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Estudar as bactérias",
+        "Estudar os fungos",
+        "Estudar os animais"
+      ]
+    },
+    {
+      "id": 164,
+      "question": "O princípio da inércia foi desenvolvido por quem?",
+      "correct_answer": "Newton",
+      "difficulty": "medium",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Medved",
+        "Pitágoras",
+        "Mendel"
+      ]
+    },
+    {
+      "id": 165,
+      "question": "Qual é o nome da maior premiação do cinema mundial?",
+      "correct_answer": "Oscar",
+      "difficulty": "easy",
+      "category": "Filmes, desenhos e televisão",
+      "incorrect_answers": [
+        "Nobel",
+        "Globo de Ouro",
+        "Festival de Cannes"
+      ]
+    },
+    {
+      "id": 166,
+      "question": "A aquarela é feita com:",
+      "correct_answer": "Pigmento e água",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Glitter",
+        "Água raz",
+        "Carvão"
+      ]
+    },
+    {
+      "id": 167,
+      "question": "Qual desses jogadores estrangeiros teve passagem por clube brasileiro em 2005?",
+      "correct_answer": "Tevez",
+      "difficulty": "easy",
+      "category": "Esportes",
+      "incorrect_answers": [
+        "Zidane",
+        "Maradona",
+        "Cristiano Ronaldo"
+      ]
+    },
+    {
+      "id": 168,
+      "question": "Como é chamado o encontro de católicos para discussão de assuntos religiosos?",
+      "correct_answer": "Concílio",
+      "difficulty": "hard",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Missa",
+        "Multirão",
+        "Quermesse"
+      ]
+    },
+    {
+      "id": 169,
+      "question": "Segundo a bíblia, Abel foi um:",
+      "correct_answer": "Pastor de ovelhas",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Pastor de igreja",
+        "Lavrador de terra",
+        "Rei"
+      ]
+    },
+    {
+      "id": 170,
+      "question": "Como é chamado o favorecimento de parentes praticado pelos que detém o poder?",
+      "correct_answer": "Nepotismo",
+      "difficulty": "medium",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Absolutismo",
+        "Socialismo",
+        "Despotismo"
+      ]
+    },
+    {
+      "id": 171,
+      "question": "Qual é o nome da primeira cosmonauta a realizar um vôo espacial?",
+      "correct_answer": "Valentina",
+      "difficulty": "hard",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Clementina",
+        "Josefina",
+        "Terezinha"
+      ]
+    },
+    {
+      "id": 172,
+      "question": "Oryza Sativa é o nome científico de qual desses cereais?",
+      "correct_answer": "Arroz",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Trigo",
+        "Milho",
+        "Aveia"
+      ]
+    },
+    {
+      "id": 173,
+      "question": "No Brasil, a Semana de Arte Moderna deu origem a qual movimento?",
+      "correct_answer": "Modernismo",
+      "difficulty": "medium",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Romantismo",
+        "Barroco",
+        "Arcadismo"
+      ]
+    },
+    {
+      "id": 174,
+      "question": "Descritiva, narrativa e dissertativa são tipos de:",
+      "correct_answer": "Redação",
+      "difficulty": "medium",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Conjugações",
+        "Antônimos",
+        "Suplementares"
+      ]
+    },
+    {
+      "id": 175,
+      "question": "Qual é o principal ingrediente da mariola?",
+      "correct_answer": "Banana",
+      "difficulty": "medium",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Canela",
+        "Mandioca",
+        "Gengibre"
+      ]
+    },
+    {
+      "id": 176,
+      "question": "A palavra destinto significa:",
+      "correct_answer": "Descorado",
+      "difficulty": "hard",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Diferente",
+        "Formidável",
+        "Inconfundível"
+      ]
+    },
+    {
+      "id": 177,
+      "question": "A respiração tegumentar é semelhante a qual respiração?",
+      "correct_answer": "Cutânea",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Traquial",
+        "Pulmonar",
+        "Branquial"
+      ]
+    },
+    {
+      "id": 178,
+      "question": "Entrada franca em um espetáculo significa...",
+      "correct_answer": "Entrada gratuíta",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Entrada proibida",
+        "Entrada para menores",
+        "Entrada para maiores"
+      ]
+    },
+    {
+      "id": 179,
+      "question": "Qual é a bebida originada da pigmentação do suco de uva?",
+      "correct_answer": "Vinho",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Cerveja",
+        "Uísque",
+        "Saquê"
+      ]
+    },
+    {
+      "id": 180,
+      "question": "O que foi contruído por Noé?",
+      "correct_answer": "Uma arca",
+      "difficulty": "easy",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Uma torre",
+        "Uma esfinge",
+        "Uma pirâmide"
+      ]
+    },
+    {
+      "id": 181,
+      "question": "Qual desses elementos atrai o ferro e outros metais?",
+      "correct_answer": "Imã",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Lapela",
+        "Pátina",
+        "Broche"
+      ]
+    },
+    {
+      "id": 182,
+      "question": "Qual dessas palavras não se refere a aluno?",
+      "correct_answer": "Catedrático",
+      "difficulty": "hard",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Estudante",
+        "Discente",
+        "Discípulo"
+      ]
+    },
+    {
+      "id": 183,
+      "question": "Em qual destes esportes não é necessário um goleiro?",
+      "correct_answer": "Basquete",
+      "difficulty": "easy",
+      "category": "Esportes",
+      "incorrect_answers": [
+        "Futebol",
+        "Pólo aquático",
+        "Handebol"
+      ]
+    },
+    {
+      "id": 184,
+      "question": "A palavra sol é:",
+      "correct_answer": "Monossílaba",
+      "difficulty": "easy",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Trissílaba",
+        "Polissílaba",
+        "Dissílaba"
+      ]
+    },
+    {
+      "id": 185,
+      "question": "Qual o oceano que banha o litoral brasileiro?",
+      "correct_answer": "Atlântico",
+      "difficulty": "easy",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Ártico",
+        "Pacífico",
+        "Índico"
+      ]
+    },
+    {
+      "id": 186,
+      "question": "O que é Via Láctea?",
+      "correct_answer": "Galáxia",
+      "difficulty": "easy",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Marca de leite",
+        "Civilização antiga",
+        "Marca de carro"
+      ]
+    },
+    {
+      "id": 187,
+      "question": "Qual dessas cartas não pertence a um baralho comum?",
+      "correct_answer": "Barão",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Dama",
+        "Valete",
+        "Rei"
+      ]
+    },
+    {
+      "id": 188,
+      "question": "Como é chamado o andamento natural dos cavalos?",
+      "correct_answer": "Trote",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Corrida",
+        "Partida",
+        "Capote"
+      ]
+    },
+    {
+      "id": 189,
+      "question": "Qual cineasta dirigiu o filme Lawrence da Arábia?",
+      "correct_answer": "David Lean",
+      "difficulty": "medium",
+      "category": "Filmes, desenhos e televisão",
+      "incorrect_answers": [
+        "Brian de Palma",
+        "Michael Anderson",
+        "Orson Welles"
+      ]
+    },
+    {
+      "id": 190,
+      "question": "Como é chamada a bebida dos deuses da mitologia?",
+      "correct_answer": "Néctar",
+      "difficulty": "medium",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Manjar",
+        "Soro",
+        "Xarope"
+      ]
+    },
+    {
+      "id": 191,
+      "question": "Qual palavra é usada para fazer referência a algo que ocorreu de imprevisto?",
+      "correct_answer": "Contratempo",
+      "difficulty": "easy",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Contrativo",
+        "Contratrilho",
+        "Contraste"
+      ]
+    },
+    {
+      "id": 192,
+      "question": "Qual o plural da palavra fácil?",
+      "correct_answer": "Fáceis",
+      "difficulty": "easy",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Fácis",
+        "Fácils",
+        "Fácius"
+      ]
+    },
+    {
+      "id": 193,
+      "question": "Qual dessas palavras está relacionada ao futebol?",
+      "correct_answer": "Embaixada",
+      "difficulty": "medium",
+      "category": "Esportes",
+      "incorrect_answers": [
+        "Consulado",
+        "Prefeitura",
+        "Convento"
+      ]
+    },
+    {
+      "id": 194,
+      "question": "O poema \"O Navio Negreiro\" foi escrito por qual poeta brasileiro?",
+      "correct_answer": "Castro Alves",
+      "difficulty": "hard",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Álvares de Azevedo",
+        "Manuel Bandeira",
+        "Augusto dos Anjos"
+      ]
+    },
+    {
+      "id": 195,
+      "question": "Carlos Magno foi monarca de qual dinastia?",
+      "correct_answer": "Carolíngia",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Borgonha",
+        "Windsor",
+        "Cassita"
+      ]
     }
   ];
 

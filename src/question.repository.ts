@@ -2355,6 +2355,330 @@ export class QuestionRepository {
         "Windsor",
         "Cassita"
       ]
+    },
+    {
+      "id": 196,
+      "question": "Além da ema, qual dessas outras aves não voa?",
+      "correct_answer": "Pinguim",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Canário",
+        "Beija-flor",
+        "Papagaio"
+      ]
+    },
+    {
+      "id": 197,
+      "question": "Qual é o nome do primeiro cachorro a ir para o espaço?",
+      "correct_answer": "Laika",
+      "difficulty": "hard",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Bob",
+        "Shake",
+        "Dolly"
+      ]
+    },
+    {
+      "id": 198,
+      "question": "Qual é o satélite natural da Terra?",
+      "correct_answer": "Lua",
+      "difficulty": "easy",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Sol",
+        "Marte",
+        "Júpiter"
+      ]
+    },
+    {
+      "id": 199,
+      "question": "Qual desses esportes envolve touros?",
+      "correct_answer": "Rodeio",
+      "difficulty": "easy",
+      "category": "Esportes",
+      "incorrect_answers": [
+        "Futebol",
+        "Tênis",
+        "Boliche"
+      ]
+    },
+    {
+      "id": 200,
+      "question": "O que queria o leão de O Mágico de Oz?",
+      "correct_answer": "Coragem",
+      "difficulty": "easy",
+      "category": "Filmes, desenhos e televisão",
+      "incorrect_answers": [
+        "Força",
+        "Coração",
+        "Cérebro"
+      ]
+    },
+    {
+      "id": 201,
+      "question": "Açores é um arquipélago que pertence a qual país?",
+      "correct_answer": "Portugal",
+      "difficulty": "easy",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Espanha",
+        "França",
+        "Inglaterra"
+      ]
+    },
+    {
+      "id": 202,
+      "question": "Que esporte pratica a equipe do Chicago Bulls?",
+      "correct_answer": "Basquete",
+      "difficulty": "easy",
+      "category": "Esportes",
+      "incorrect_answers": [
+        "Vôlei",
+        "Natação",
+        "Futebol"
+      ]
+    },
+    {
+      "id": 203,
+      "question": "Como é chamado o distintivo de uma pessoa ou família nobre?",
+      "correct_answer": "Brasão",
+      "difficulty": "medium",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Coroa",
+        "Medalhão",
+        "Broche"
+      ]
+    },
+    {
+      "id": 204,
+      "question": "Quais são os naipes pretos das cartas de baralho?",
+      "correct_answer": "Espada e paus",
+      "difficulty": "hard",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Copas e ouro",
+        "Ouro e paus",
+        "Copas e espada"
+      ]
+    },
+    {
+      "id": 205,
+      "question": "A energia do núcleo do átomo é:",
+      "correct_answer": "Uma energia nuclear",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Uma energia química",
+        "Uma energia térmica",
+        "Uma energia cinética"
+      ]
+    },
+    {
+      "id": 206,
+      "question": "Um ponto elevado de onde se aprecia vistas panorâmicas é chamado de:",
+      "correct_answer": "Mirante",
+      "difficulty": "medium",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Porto",
+        "Encosta",
+        "Orla"
+      ]
+    },
+    {
+      "id": 207,
+      "question": "O que é uma epístola?",
+      "correct_answer": "Carta",
+      "difficulty": "medium",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Música",
+        "Filme",
+        "Desenho"
+      ]
+    },
+    {
+      "id": 208,
+      "question": "Onde podemos encontrar estalactites?",
+      "correct_answer": "Em cavernas",
+      "difficulty": "medium",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Em igrejas",
+        "Em escolas",
+        "Em hospitais"
+      ]
+    },
+    {
+      "id": 209,
+      "question": "O que faz um lapidário?",
+      "correct_answer": "Lapida pedras preciosas",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Limpa panelas",
+        "Aponta lápis",
+        "Faz lâmpadas"
+      ]
+    },
+    {
+      "id": 210,
+      "question": "Hermeto Pascoal é um:",
+      "correct_answer": "Músico",
+      "difficulty": "medium",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Seminarista",
+        "Técnico de futebol",
+        "Culinarista"
+      ]
+    },
+    {
+      "id": 211,
+      "question": "Qual é o planeta mais próximo da Terra?",
+      "correct_answer": "Vênus",
+      "difficulty": "medium",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Plutão",
+        "Marte",
+        "Urano"
+      ]
+    },
+    {
+      "id": 212,
+      "question": "Qual é o profissional relacionado à extração do látex?",
+      "correct_answer": "Seringueiro",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Marceneiro",
+        "Carpinteiro",
+        "Serralheiro"
+      ]
+    },
+    {
+      "id": 213,
+      "question": "Qual desses esportes não utiliza taco?",
+      "correct_answer": "Futebol",
+      "difficulty": "easy",
+      "category": "Esportes",
+      "incorrect_answers": [
+        "Beisebol",
+        "Hóquei",
+        "GOlfe"
+      ]
+    },
+    {
+      "id": 214,
+      "question": "Qual pigmento presente no sangue é responsável pela fixação do oxigênio?",
+      "correct_answer": "Hemoglobina",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Globulina",
+        "Glóbulos brancos",
+        "Glóbulos vermelhos"
+      ]
+    },
+    {
+      "id": 215,
+      "question": "Silvicultura é o estudo de:",
+      "correct_answer": "Florestas",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Serpentes",
+        "Raposas",
+        "Sereias"
+      ]
+    },
+    {
+      "id": 216,
+      "question": "A pleura é uma membrana responsável por facilitar os movimentos de qual órgão?",
+      "correct_answer": "Pulmão",
+      "difficulty": "medium",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Rim",
+        "Estômago",
+        "Coração"
+      ]
+    },
+    {
+      "id": 217,
+      "question": "Qual foi o primeiro país das Américas a tornar-se socialista em 1959?",
+      "correct_answer": "Cuba",
+      "difficulty": "medium",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Equador",
+        "Estados Unidos",
+        "Canadá"
+      ]
+    },
+    {
+      "id": 218,
+      "question": "Qual é o molusco que lança uma tinta escura quando ameaçado?",
+      "correct_answer": "Polvo",
+      "difficulty": "medium",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Golfinho",
+        "Orca",
+        "Salmão"
+      ]
+    },
+    {
+      "id": 219,
+      "question": "A cidade de Jacarta é a capital de qual desses países?",
+      "correct_answer": "Indonésia",
+      "difficulty": "hard",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "Tailândia",
+        "Moçambique",
+        "Malásia"
+      ]
+    },
+    {
+      "id": 220,
+      "question": "Qual é o exame laboratorial que se destina à detecção de anticorpos anti-HIV?",
+      "correct_answer": "Elisa",
+      "difficulty": "medium",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "DNA",
+        "Papanicolau",
+        "Ultra-som"
+      ]
+    },
+    {
+      "id": 221,
+      "question": "Qual é a moeda do Peru?",
+      "correct_answer": "Sol novo",
+      "difficulty": "hard",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Peso",
+        "Guarani",
+        "Sucre"
+      ]
+    },
+    {
+      "id": 222,
+      "question": "A dendrologia é o estudo científico de:",
+      "correct_answer": "Árvores",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Moluscos",
+        "Satélites",
+        "Caracóis"
+      ]
     }
   ];
 

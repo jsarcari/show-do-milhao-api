@@ -1473,7 +1473,7 @@ export class QuestionRepository {
       "question": "Onde está a incapacidade do daltônico?",
       "correct_answer": "Nos olhos",
       "difficulty": "easy",
-      "category": "Conhecimentos gerais",
+      "category": "Ciências",
       "incorrect_answers": [
         "Na face",
         "No nariz",
@@ -2678,6 +2678,198 @@ export class QuestionRepository {
         "Moluscos",
         "Satélites",
         "Caracóis"
+      ]
+    },
+    {
+      "id": 223,
+      "question": "Em qual desses filmes Antonio Fagundes é protagonista?",
+      "correct_answer": "Deus é brasileiro",
+      "difficulty": "medium",
+      "category": "Filmes, desenhos e televisão",
+      "incorrect_answers": [
+        "Cristina quer casar",
+        "Cidade de Deus",
+        "Central do Brasil"
+      ]
+    },
+    {
+      "id": 224,
+      "question": "Em qual continente está Papua-Nova Guiné?",
+      "correct_answer": "Oceania",
+      "difficulty": "hard",
+      "category": "Geografia",
+      "incorrect_answers": [
+        "África",
+        "Europa",
+        "Ásia"
+      ]
+    },
+    {
+      "id": 225,
+      "question": "No Brasil, qual é o significado da sigla RG dos documentos de identidade?",
+      "correct_answer": "Registro Geral",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Registro Genérico",
+        "Relação Geral",
+        "Relação Genérica"
+      ]
+    },
+    {
+      "id": 226,
+      "question": "O Basset é uma raça de qual animal?",
+      "correct_answer": "Cachorro",
+      "difficulty": "easy",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Periquito",
+        "Gato",
+        "Peixe"
+      ]
+    },
+    {
+      "id": 227,
+      "question": "Qual das opções não é uma crença do catolicismo?",
+      "correct_answer": "Reencarnação",
+      "difficulty": "medium",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Paraíso",
+        "Purgatório",
+        "Inferno"
+      ]
+    },
+    {
+      "id": 228,
+      "question": "Na saga Residente Evil, que atriz interpreta a personagem Alice?",
+      "correct_answer": "Mila Jovovich",
+      "difficulty": "hard",
+      "category": "Filmes, desenhos e televisão",
+      "incorrect_answers": [
+        "Michele Rodriguez",
+        "Mila Kunis",
+        "Siena Guillory"
+      ]
+    },
+    {
+      "id": 229,
+      "question": "Cipó é:",
+      "correct_answer": "Uma planta",
+      "difficulty": "easy",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Uma comida",
+        "Um mineral",
+        "Um animal"
+      ]
+    },
+    {
+      "id": 230,
+      "question": "O que significa iminência?",
+      "correct_answer": "Próximo de acontecer",
+      "difficulty": "hard",
+      "category": "Português e literatura",
+      "incorrect_answers": [
+        "Alto",
+        "Excelente",
+        "Pronome de tratamento"
+      ]
+    },
+    {
+      "id": 231,
+      "question": "Qual o nome do primeiro carneiro produzido por clonagem?",
+      "correct_answer": "Dolly",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Aretha",
+        "Billie",
+        "Crystal"
+      ]
+    },
+    {
+      "id": 232,
+      "question": "Qual é o único numeral que é primo e par ao mesmo tempo?",
+      "correct_answer": "Dois",
+      "difficulty": "medium",
+      "category": "Matemática",
+      "incorrect_answers": [
+        "Dez",
+        "Cinco",
+        "Seis"
+      ]
+    },
+    {
+      "id": 233,
+      "question": "Como é escrito o número 1.000 em algarismos romanos?",
+      "correct_answer": "M",
+      "difficulty": "easy",
+      "category": "Matemática",
+      "incorrect_answers": [
+        "C",
+        "X",
+        "L"
+      ]
+    },
+    {
+      "id": 234,
+      "question": "De qual planta é extraído o óleo de rícino?",
+      "correct_answer": "Mamona",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Erva-cidreira",
+        "Ipê",
+        "Babosa"
+      ]
+    },
+    {
+      "id": 235,
+      "question": "Qual era o nome de solteira da atriz e líder da Argentina Eva Peron?",
+      "correct_answer": "Duarte",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Domingo",
+        "Castillo",
+        "Navarro"
+      ]
+    },
+    {
+      "id": 236,
+      "question": "Cioppino é que tipo de comida?",
+      "correct_answer": "Frutos do mar",
+      "difficulty": "hard",
+      "category": "Conhecimentos gerais",
+      "incorrect_answers": [
+        "Carne",
+        "Legumes",
+        "Frango"
+      ]
+    },
+    {
+      "id": 237,
+      "question": "Qual desses organismos não possui organização celular?",
+      "correct_answer": "Vírus",
+      "difficulty": "hard",
+      "category": "Ciências",
+      "incorrect_answers": [
+        "Eucariontes",
+        "Metazoários",
+        "Celenterados"
+      ]
+    },
+    {
+      "id": 238,
+      "question": "Qual era o nome do plano elaborado pelo governo Dutra?",
+      "correct_answer": "Plano Salte",
+      "difficulty": "hard",
+      "category": "História e política",
+      "incorrect_answers": [
+        "Plano-Piloto",
+        "Plano Verão",
+        "Plano Cohen"
       ]
     }
   ];

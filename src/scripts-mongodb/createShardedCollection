@@ -1,0 +1,2 @@
+// Fragmentando coleção questions:
+sh.shardCollection("Show_do_Milhao.questions",{_id:1})

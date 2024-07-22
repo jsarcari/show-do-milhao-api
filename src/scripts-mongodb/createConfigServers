@@ -1,0 +1,21 @@
+// Executar no terminal:
+
+docker network create ShowDoMilhao
+
+docker run --name mongo-config1 --net ShowDoMilhao -d mongo mongod --configsvr --replSet serverConfig --port 27018
+
+docker run --name mongo-config2 --net ShowDoMilhao -d mongo mongod --configsvr --replSet serverConfig --port 27018
+
+docker run --name mongo-config3 --net ShowDoMilhao -d mongo mongod --configsvr --replSet serverConfig --port 27018
+
+docker exec -it mongo-config1 mongosh --port 27018
+
+rs.initiate({
+    _id: "serverConfig",
+    configsvr: true,
+    members: [
+        {_id: 0, host: "mongo-config1:27018"},
+        {_id: 1, host: "mongo-config2:27018"},
+        {_id: 2, host: "mongo-config3:27018"}
+        ]
+});

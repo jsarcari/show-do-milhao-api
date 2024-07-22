@@ -1,0 +1,33 @@
+// Executar no terminal:
+
+// 1º fragmento
+docker run --name mongo-shard1a --net ShowDoMilhao -d mongo mongod --shardsvr --replSet shard1 --port 27019
+docker run --name mongo-shard1b --net ShowDoMilhao -d mongo mongod --shardsvr --replSet shard1 --port 27019
+docker run --name mongo-shard1c --net ShowDoMilhao -d mongo mongod --shardsvr --replSet shard1 --port 27019
+
+// 2º fragmento
+docker run --name mongo-shard2a --net ShowDoMilhao -d mongo mongod --shardsvr --replSet shard2 --port 27020
+docker run --name mongo-shard2b --net ShowDoMilhao -d mongo mongod --shardsvr --replSet shard2 --port 27020
+docker run --name mongo-shard2c --net ShowDoMilhao -d mongo mongod --shardsvr --replSet shard2 --port 27020
+
+docker exec -it mongo-shard1a mongosh --port 27019
+
+rs.initiate({
+    _id: "shard1",
+    members: [
+        {_id: 0, host: "mongo-shard1a:27019"},
+        {_id: 1, host: "mongo-shard1b:27019"},
+        {_id: 2, host: "mongo-shard1c:27019"}
+        ]
+});
+
+docker exec -it mongo-shard2a mongosh --port 27020
+
+rs.initiate({
+    _id: "shard2",
+    members: [
+        {_id: 0, host: "mongo-shard2a:27020"},
+        {_id: 1, host: "mongo-shard2b:27020"},
+        {_id: 2, host: "mongo-shard2c:27020"}
+        ]
+});

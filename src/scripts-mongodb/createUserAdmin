@@ -1,0 +1,14 @@
+// Executar no mongosh:
+
+use admin
+
+db.createUser({
+    user: "admin",
+    pwd: "admin123",
+    roles: [
+        {role: "userAdminAnyDatabase", db: "admin"},
+        {role: "readWriteAnyDatabase", db: "admin"}
+        ]
+})
+
+db.auth("admin", "admin123")

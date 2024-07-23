@@ -1,2 +1,5 @@
 // Fragmentando coleção questions:
 sh.shardCollection("Show_do_Milhao.questions",{_id:1})
+
+// Fragmentando coleção scores:
+sh.shardCollection("Show_do_Milhao.scores",{_id:1})
